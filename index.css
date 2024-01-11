@@ -12,3 +12,7 @@
 .about:hover, .contact:hover, .extern:hover, .service:hover {
     background: #383E4C;
 }
+
+.background {
+    background-image: url(autumn.jpg);
+}
