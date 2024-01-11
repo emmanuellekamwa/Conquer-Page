@@ -1,0 +1,10 @@
+.home {
+    color: #fff;
+    padding: 15px 25px;
+    background: #383E4C;
+}
+
+.about, .contact, .extern, .service {
+    color: #fff;
+    padding: 15px 25px;
+}
