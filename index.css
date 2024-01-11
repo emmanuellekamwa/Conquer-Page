@@ -8,3 +8,7 @@
     color: #fff;
     padding: 15px 25px;
 }
+
+.about:hover, .contact:hover, .extern:hover, .service:hover {
+    background: #383E4C;
+}
