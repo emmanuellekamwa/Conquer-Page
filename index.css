@@ -14,13 +14,12 @@
 }
 
 .section1 {
-    background-image: url(autumn.jpg);
     position: relative;
     color:#fff;
 }
 
-h1 {
-    font-size: 70%;
+.title1 {
+    font-size: 70px;
     text-shadow: 2px 2px #000;
     font-weight: 500;
     text-align: center;
@@ -31,10 +30,34 @@ h1 {
 }
 
 h4 {
-    font-size: 25px;
+    font-size: 30px;
     text-shadow: 1px 1px #333;
     position: absolute;
-    top: 60%;
+    top: 65%;
     bottom: 50%;
-    left: 41%;
+    left: 36%;
 }
+
+.section2 {
+    position: relative;
+    display: inline-block;
+}
+
+.service1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.title2 {
+    color:#fff;
+    font-size: 36px;
+    text-shadow: 2px 2px #aaa;
+}
+
+.latin {
+    color:#fff;
+    font-size: 18px;
+}
+
