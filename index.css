@@ -65,3 +65,9 @@ h4 {
     color:#666;
 }
 
+.form-title {
+    text-shadow: 2px 2px #333;
+    color: #fff;
+    font-size: 36px;
+    margin-bottom: 30px;
+}
