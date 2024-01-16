@@ -76,8 +76,8 @@ h4 {
     background: rgba(242,242,242,0.4) none repeat scroll 0 0;
 }
 
-.form-control {
-    background: rgba(242,242,242,0.4);
+#mail, #subject, #comment, #name {
+    background-color: rgba(242,242,242,0.4);
 }
 
 .contacts {
