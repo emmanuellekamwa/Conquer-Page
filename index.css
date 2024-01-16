@@ -14,28 +14,22 @@
 }
 
 .section1 {
-    position: relative;
-    color:#fff;
+    background-image: url("images/autumn.jpg");
+    height: 600px;
+    padding-top: 25%;
 }
 
 .title1 {
     font-size: 70px;
     text-shadow: 2px 2px #000;
     font-weight: 500;
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    right: 40%;
-    bottom: 50%;
+    color: #fff;
 }
 
-h4 {
+.text1 {
     font-size: 30px;
     text-shadow: 1px 1px #333;
-    position: absolute;
-    top: 65%;
-    bottom: 50%;
-    left: 36%;
+    color: #fff;
 }
 
 .section2 {
