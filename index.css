@@ -82,7 +82,11 @@ h4 {
 
 .contacts {
     background-image: url("images/road.jpg");
-    height: 500px;
+    height: 600px;
     background-position: center;
     background-size: cover;
+}
+
+.form-container {
+    padding-top: 85px;
 }
